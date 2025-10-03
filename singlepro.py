@@ -1,5 +1,4 @@
-import time # Single processor
-
+import time
 def basic_func(x):
         if x == 0:
                 return 'zero'
